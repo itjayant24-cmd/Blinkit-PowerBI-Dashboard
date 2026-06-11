@@ -1,7 +1,7 @@
 # Blinkit-PowerBI-Dashboard
 # Blinkit Business Intelligence Dashboard
 
-## Project Overview
+## Project Overview 
 
 This Power BI dashboard provides a comprehensive analysis of Blinkit's business performance across Sales, Customers, Delivery, Inventory, and Marketing domains.
 
@@ -31,6 +31,36 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's business 
 * Delivery Performance Tracking
 * Inventory Monitoring
 * Marketing Campaign Analysis
+
+## Dashboard Preview
+
+### Home
+
+![Home](home.png)
+
+### Executive Summary
+
+![Executive Summary](executive-summary.png)
+
+### Sales Analysis
+
+![Sales Analysis](sales-analysis.png)
+
+### Customer Insights
+
+![Customer Insights](customer-insights.png)
+
+### Delivery Analytics
+
+![Delivery Analytics](delivery-analytics.png)
+
+### Inventory Analytics
+
+![Inventory Analytics](inventory-analytics.png)
+
+### Marketing Performance
+
+![Marketing Performance](marketing-performance.png)
 
 ## Note
 
