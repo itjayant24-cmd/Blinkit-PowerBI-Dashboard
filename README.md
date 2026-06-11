@@ -40,27 +40,27 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's business 
 
 ### Executive Summary
 
-![Executive Summary](executive-summary.png)
+![Executive Summary](Executive_summary.png.png)
 
 ### Sales Analysis
 
-![Sales Analysis](sales-analysis.png)
+![Sales Analysis](Sales_Analysis.png.png)
 
 ### Customer Insights
 
-![Customer Insights](customer-insights.png)
+![Customer Insights](Customer_insights.png.png)
 
 ### Delivery Analytics
 
-![Delivery Analytics](delivery-analytics.png)
+![Delivery Analytics](Delivery_Analysis.png.png)
 
 ### Inventory Analytics
 
-![Inventory Analytics](inventory-analytics.png)
+![Inventory Analytics](Inventory_insights.png.png)
 
 ### Marketing Performance
 
-![Marketing Performance](marketing-performance.png)
+![Marketing Performance](Marketing_performance.png.png)
 
 ## Note
 
