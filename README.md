@@ -36,7 +36,7 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's business 
 
 ### Home
 
-![Home](home.png)
+![Home](home.png.png)
 
 ### Executive Summary
 
