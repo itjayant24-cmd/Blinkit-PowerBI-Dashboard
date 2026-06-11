@@ -62,6 +62,14 @@ This Power BI dashboard provides a comprehensive analysis of Blinkit's business 
 
 ![Marketing Performance](Marketing_performance.png.png)
 
+## Key Findings
+
+- May recorded the highest revenue performance.
+- On-time delivery rate was 69.4%.
+- Average delivery delay was 4.44 minutes.
+- Marketing revenue consistently exceeded marketing spend.
+- Inventory trends remained stable for most of the year before declining toward year-end.
+- A total of 268 unique products were monitored across inventory operations.
 ## Business Recommendations
 ### Sales Recommendations
 
