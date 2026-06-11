@@ -1,6 +1,8 @@
 # Blinkit-PowerBI-Dashboard
 # Blinkit Business Intelligence Dashboard
 
+Power BI | DAX | Business Intelligence | Data Analytics
+
 ## Project Overview 
 
 This Power BI dashboard provides a comprehensive analysis of Blinkit's business performance across Sales, Customers, Delivery, Inventory, and Marketing domains.
